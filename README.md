@@ -1,7 +1,8 @@
-# semaforo---UNEMAT-alto-araguaia
+# semaforo-UNEMAT-alto-araguaia
 Projeto Semáforo Alto Araguaia
 
 Bryan Duarte, Natanael Paião.
+
 Projeto de implementação de um semáforo inteligente, para controlar o fluxo de veículos na avenida principal de Alto Araguaia, na intersecção com a MT-100.
 O semáforo ficara alternando entre as duas vias principais, e os semáforos das vias adjacentes ficarão sempre fechados, até que um veículo solicite a abertura para que ele possa passar, esse solicitação ocorrera através de um sensor instalado abaixo do asfalto, que detectara quando um veículo está no local.
 O semáforo também controlara o fluxo de pedestres, em cada esquina, haverá um painel com um botão para que um pedestre solicite a passagem, este painel também possui luzes de aviso (se o pedestre pode passar ou não) e possui um aviso sonoro quando a passagem para pedestres estiver prestes a fechar.
